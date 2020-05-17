@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><libreria>
+    <!-- libro con 1 autor -->
+	<libro>
+		
+		<titulo>Follas novas</titulo>
+		
+		<autores>
+			<autor orden="1">Rosalía de Castro</autor>
+		</autores>
+		
+	    
+	</libro>
+	<!--libro sin temática -->
+    <libro>
+		
+		<titulo>La metamorfosis</titulo>
+		
+		<autores>
+			<autor orden="1">Franz Kafka</autor>
+		</autores>
+		
+	</libro>
+	<!-- libro con 1 autor sin alto ni ancho-->
+	<libro>
+		
+		<titulo>El perfume</titulo>
+		
+		<autores>
+			<autor orden="1">Patrik Suskind</autor>
+		</autores>
+		
+		
+	</libro>
+	<!-- libro con varios autores-->
+	<libro>
+		
+		<titulo>El último francotirador</titulo>
+		
+		<autores>
+			<autor orden="1">Kevin Lacz</autor>
+			<autor orden="2">Ethan E. Rocke</autor>
+			<autor orden="3">Lindey Lacz</autor>
+		</autores>
+		
+	    
+	</libro>
+</libreria>
