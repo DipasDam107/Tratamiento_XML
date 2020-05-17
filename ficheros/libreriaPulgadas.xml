@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><libreria>
+    <!-- libro con 1 autor -->
+	<libro>
+		<isbn>978-84-9121-009-2</isbn>
+		<titulo>Follas novas</titulo>
+		<dimensiones alto="8.58" ancho="5.46" paginas="496"/>
+		<autores>
+			<autor orden="1">Rosalía de Castro</autor>
+		</autores>
+		<tematica>Poesía</tematica>
+	    <precio>20.30</precio>
+	</libro>
+	<!--libro sin temática -->
+    <libro>
+		<isbn>978-84-206-5136-1</isbn>
+		<titulo>La metamorfosis</titulo>
+		<dimensiones alto="7.0200000000000005" ancho="4.68" paginas="128"/>
+		<autores>
+			<autor orden="1">Franz Kafka</autor>
+		</autores>
+		<precio>10</precio>
+	</libro>
+	<!-- libro con 1 autor sin alto ni ancho-->
+	<libro>
+		<isbn>978-84-322-5114-6</isbn>
+		<titulo>El perfume</titulo>
+		<dimensiones paginas="320"/>
+		<autores>
+			<autor orden="1">Patrik Suskind</autor>
+		</autores>
+		<tematica>Thriller</tematica>
+		<precio>7.95</precio>
+	</libro>
+	<!-- libro con varios autores-->
+	<libro>
+		<isbn>978-84-16771-47-9</isbn>
+		<titulo>El último francotirador</titulo>
+		<dimensiones alto="8.97" ancho="5.8500000000000005" paginas="328"/>
+		<autores>
+			<autor orden="1">Kevin Lacz</autor>
+			<autor orden="2">Ethan E. Rocke</autor>
+			<autor orden="3">Lindey Lacz</autor>
+		</autores>
+		<tematica>Thriller</tematica>
+	    <precio>5.95</precio>
+	</libro>
+</libreria>
